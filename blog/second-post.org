@@ -1,0 +1,14 @@
+# -*- coding: utf-8-unix; -*-
+#+TITLE:       <与github同步测试>
+#+AUTHOR:      yanghao
+#+EMAIL:       yanghao@crunchbang
+#+DATE:        2015-05-22 五
+
+# #+URI:         /blog/%y/%m/%d/%t/ Or /blog/%t/
+# #+KEYWORDS:    keyword1, keyword2, keyword3
+# #+TAGS:        tag1, tag2, tag3
+# #+DESCRIPTION: <Add description here>
+
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+尝试通过切换分支与github同步
